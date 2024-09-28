@@ -27,7 +27,7 @@ Here are some ideas to get you started:
 
 - 💬 Ask me about **HTML, CSS, Javascript**
 
-- 📫 How to reach me **afzalmir.ig**
+- 📫 How to reach me **[iAfzalMir](https://www.instagram.com/iafzalmir)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
