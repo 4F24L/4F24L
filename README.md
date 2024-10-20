@@ -35,11 +35,11 @@ Here are some ideas to get you started:
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://codepen.io/4f24l" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="4f24l" height="30" width="40" /></a>
-<a href="https://twitter.com/afzalmirtwt" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="afzalmirtwt" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/afzalmir" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="afzalmir" height="30" width="40" /></a>
-<a href="https://fb.com/afzalmir.fb" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="afzalmir.fb" height="30" width="40" /></a>
-<a href="https://instagram.com/afzalmir.ig" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="afzalmir.ig" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/afzal.coder" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="afzal.coder" height="30" width="40" /></a>
+<a href="https://twitter.com/iafzalmir" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="afzalmirtwt" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/iafzalmir" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="afzalmir" height="30" width="40" /></a>
+<a href="https://fb.com/iafzalmir" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="afzalmir.fb" height="30" width="40" /></a>
+<a href="https://instagram.com/iafzalmir" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="afzalmir.ig" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/iafzalmir" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="afzal.coder" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
