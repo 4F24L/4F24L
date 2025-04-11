@@ -77,7 +77,7 @@ Here are some ideas to get you started:
 > The best projects I have made so far!
 
 - 🔗 CheckUncheck - Task Management Tool - [Github](https://github.com/4F24L/checkUncheck) | [Live Link](https://checkuncheck.vercel.app) 
-- 🔗 Wallet X - Wallet App - [Github](https://github.com/4F24L/wallet-x) | [Live Link](https://wallet-a-app.vercel.app) 
+- 🔗 Wallet X - Wallet App - [Github](https://github.com/4F24L/wallet-x) | [Live Link](https://wallet-x-app.vercel.app) 
 
 <p align="center">
   🚀 Thank you for visiting my profile! <br>
