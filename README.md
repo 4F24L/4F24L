@@ -62,9 +62,18 @@ Here are some ideas to get you started:
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C Programming" width="40" height="40"/>
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=4f24l&show_icons=true&locale=en&layout=compact" alt="4f24l" /></p>
+<p align="center">
+  <img width="390" src="https://streak-stats.demolab.com/?user=4F24L&count_private=true&theme=react&border_radius=10" alt="streak stats" />
+</p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=4f24l&show_icons=true&locale=en" alt="4f24l" /></p>
+<p align="center">
+  <img width="390" src="https://github-readme-stats-salesp07.vercel.app/api?username=4F24L&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img width="325" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=4F24L&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
+</p>
+
+
+
 
 ### 🏆 GitHub Trophies
 
